@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: bcfd7f46-15b5-b471-f5ea-129a2c24efdf
 title: Teamwork and Match Process
 uid: aa14a3ad-63d9-232b-3cbf-18786a94983e
