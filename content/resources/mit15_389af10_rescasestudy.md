@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: ed516848-9a51-6ec2-d5c7-ea08627df0fa
 resourcetype: Document
 title: MIT15_389AF10_rescasestudy.pdf
 uid: d97a217c-a714-4faa-3ae5-01a366b8eead
