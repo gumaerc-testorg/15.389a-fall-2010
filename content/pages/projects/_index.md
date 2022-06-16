@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the project assignments for the
+  course, including work plans, peer review, remote (MIT-based) internship and Remote
+  Research Report (RRR), on-site internship, poster, company deliverables, and final
+  internship report, and after action review.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +14,7 @@ uid: bcfd7f46-15b5-b471-f5ea-129a2c24efdf
 Project Assignments
 -------------------
 
-You will form teams and jointly submit project applications after reviewing the available project opportunities, following the guidelines of the [Teamwork and Match Process]({{< baseurl >}}/pages/projects/teamwork-and-match-process). All teams will be assigned a faculty mentor who will advise them throughout the development of their project.
+You will form teams and jointly submit project applications after reviewing the available project opportunities, following the guidelines of the {{% resource_link aa14a3ad-63d9-232b-3cbf-18786a94983e "Teamwork and Match Process" %}}. All teams will be assigned a faculty mentor who will advise them throughout the development of their project.
 
 Project Work Plan
 -----------------

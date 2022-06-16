@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the team formation process for the
+  course, the process for matching teams to host companies, and faculty mentoring.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
