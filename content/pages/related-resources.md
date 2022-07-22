@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides readings and resources that may be useful for the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: ed516848-9a51-6ec2-d5c7-ea08627df0fa
 ---
@@ -12,6 +16,6 @@ EIU. "[Economist Intelligence Unit Home Page](http://www.eiu.com/Default.aspx)."
 
 Cusumano, Michael. "Dealing with the Venture Capital Crisis." _Communication of the ACN_ 52, no. 10 (2009): 25-7.
 
-Reavis, Cate. "Thoughts on How to Write a G-Lab Case Study." MIT Sloan School of Management, December 9, 2008. ([PDF]({{< baseurl >}}/resources/mit15_389af10_rescasestudy)) (Courtesy of Cate Reavis. Used with permission.)
+Reavis, Cate. "Thoughts on How to Write a G-Lab Case Study." MIT Sloan School of Management, December 9, 2008. ({{% resource_link d97a217c-a714-4faa-3ae5-01a366b8eead "PDF" %}}) (Courtesy of Cate Reavis. Used with permission.)
 
-"Workbook B – Secondary Research." Market Street Research. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.marketstreetresearch.com/wallace/Workbook%20B%20-%20Secondary%20research.pdf))
+"Workbook B – Secondary Research." Market Street Research. ([PDF](http://www.marketstreetresearch.com/wallace/Workbook%20B%20-%20Secondary%20research.pdf))

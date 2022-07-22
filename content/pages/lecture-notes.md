@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture slides used in several sessions of
+  the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 827356e3-77a0-15ae-4928-1b8cbd00f9c9
 ---
@@ -30,7 +35,7 @@ LECTURE NOTES
 Stylized view of entrepreneurship
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_389af10_lec01))
+({{% resource_link 11282434-997b-6fd2-5266-581a9129c29c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Stylized view of entrepreneurship
 The role of government in entrepreneurship: Singapore
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_389af10_lec02))
+({{% resource_link a124d89f-72e9-7dfb-16fb-799e38a684b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ The role of government in entrepreneurship: Singapore
 Mixer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit15_389af10_lec03))
+({{% resource_link 2d0fea85-0626-1d5a-27b2-c78b629f5140 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Mixer
 National government, international technology: China
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_389af10_lec04))
+({{% resource_link 229351bf-6b39-7b92-a158-e23f2cdd3eda "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ National government, international technology: China
 Investing in Indonesia
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_389af10_lec08))
+({{% resource_link b964ecf8-4a6e-758e-978a-21f6a2ea411a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Investing in Indonesia
 Conclusion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_389af10_lec23))
+({{% resource_link dbe3f85f-6d2f-fd5d-6a76-42375aa6fc80 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
