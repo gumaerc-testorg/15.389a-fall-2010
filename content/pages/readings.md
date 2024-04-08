@@ -20,7 +20,7 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Stylized view of entrepreneurship
 {{< tdclose >}}{{< tdopen >}}
-McMillan, John, and Christopher Woodruff. "The Central Role of Entrepreneurs in Transition Economies." *Journal of Economic Perspectives* 16, no. 3 (2002): 153-70. ([PDF](https://pubs.aeaweb.org/doi/pdfplus/10.1257/089533002760278767))
+McMillan, John, and Christopher Woodruff. "The Central Role of Entrepreneurs in Transition Economies." *Journal of Economic Perspectives* 16, no. 3 (2002): 153-70. ({{% resource_link "1e398b3c-83db-425d-b9b7-29f50d31463c" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -43,7 +43,7 @@ Quelch, John A. and Katherine E. Jocz. "Google in China (A)." Harvard Business S
 
 Quelch, John A. "Google in China (B)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-510-110, April 1, 2010.
 
-Talbot, David. "[China's Internet Paradox](https://www.technologyreview.com/2010/04/14/91784/chinas-internet-paradox/)." *Technology Review* 113, no. 2 (2010): 62-7.
+Talbot, David. "{{% resource_link "34327f4b-cc5e-4fc1-90d5-ce6fd8cfa861" "China's Internet Paradox" %}}." *Technology Review* 113, no. 2 (2010): 62-7.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
