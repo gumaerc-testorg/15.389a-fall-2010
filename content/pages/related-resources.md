@@ -12,7 +12,7 @@ The following readings and resources are not required but may be useful for this
 
 Baron, David P. "Integrated Strategy: Market and Non-Market Components." *California Management Review* 37, no. 2 (1997): 47-65.
 
-EIU. "{{% resource_link "b2e42d90-1e8d-46ea-9816-f36fb960fef2" "Economist Intelligence Unit Home Page" %}}." The Economist.
+EIU. "[Economist Intelligence Unit Home Page](http://www.eiu.com/Default.aspx)." The Economist.
 
 Cusumano, Michael. "Dealing with the Venture Capital Crisis." *Communication of the ACN* 52, no. 10 (2009): 25-7.
 
