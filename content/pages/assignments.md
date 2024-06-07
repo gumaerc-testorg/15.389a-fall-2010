@@ -11,19 +11,19 @@ uid: 95d96c33-5105-c482-af64-091b88840a08
 ---
 The case write-up should be no more than three double-spaced pages (750 words). You may choose any case to analyze. Submit the write-up at the beginning of class on the day the case is to be discussed. This is an individual assignment, so please write up the case on your own, not with your project team. Case write-ups must be submitted for one of the following cases:
 
-1. Vietor, Richard H. K., and Emily J. Thompson. "Singapore Inc." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-040, February 27, 2003.   
+1. Vietor, Richard H. K., and Emily J. Thompson. "Singapore Inc." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-040, February 27, 2003.    
      
-2. Quelch, John A. and Katherine E. Jocz. "Google in China (A)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-510-071, January 10, 2010.   
+2. Quelch, John A. and Katherine E. Jocz. "Google in China (A)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-510-071, January 10, 2010.    
      
-3. Quelch, John A. "Google in China (B)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-510-110, April 1, 2010.   
+3. Quelch, John A. "Google in China (B)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-510-110, April 1, 2010.    
      
-4. Anthony, Kevin, Roger Erdong Chen, Aaron Rackoff, and Wai Yan Wong. "PPS.tv and China's Online Video Distribution Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-074, July 29, 2008. ([PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf))   
+4. Anthony, Kevin, Roger Erdong Chen, Aaron Rackoff, and Wai Yan Wong. "PPS.tv and China's Online Video Distribution Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-074, July 29, 2008.   
      
-5. Huang, Yasheng, and Harold F. Hogan, Jr. "India's Intellectual Property Rights Regime and the Pharmaceutical Industry." Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-039, February 21, 2002.   
+5. Huang, Yasheng, and Harold F. Hogan, Jr. "India's Intellectual Property Rights Regime and the Pharmaceutical Industry." Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-039, February 21, 2002.    
      
-6. Kalegaonkar, Archana, Richard Locke, and Jonathan Lehrich. "Biocon India Group." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-081, November 4, 2008.   
+6. Kalegaonkar, Archana, Richard Locke, and Jonathan Lehrich. "Biocon India Group." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-081, November 4, 2008.    
      
-7. Porter, Michael E., and Christian H. M. Ketels. "Indonesia: Attracting Foreign Investment." Harvard Business School Case. Harvard Business School Publishing. Case: 9-708-420, November 19, 2007.   
+7. Porter, Michael E., and Christian H. M. Ketels. "Indonesia: Attracting Foreign Investment." Harvard Business School Case. Harvard Business School Publishing. Case: 9-708-420, November 19, 2007.    
      
 8. Carlisle, Erica, Chris Lin, Libby Putman, and Emily Sporl. "Mercy Corps and KeBal Healthy Food Carts: Sustaining and Scaling Up." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-106, September 26, 2010.
 9. Lehrich, M. Jonathan, Paul John Paredes, and Ramesh Ravikumar. "Compsis at a Crossroads." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 07-044, December 15, 2009.
